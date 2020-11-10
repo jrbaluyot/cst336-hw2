@@ -1,0 +1,68 @@
+h1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+
+h4 {
+    color: blue;
+}
+
+body {
+    width: 500px;
+    background-color: grey;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#playArea {
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+#slot1, #slot2, #slot3 {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+#betSize, #winnings, #credits, #playButton {
+    font-family: 'Bebas Neue', cursive;
+}
+
+#iconLink {
+    font-size: 10px;
+}
+
+#playButton {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#winnings {
+    font-size: 1.2em;
+}
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    color:black !important;
+    background-color: red !important;
+    border: red !important;
+    
+}
+
+#rules, #ruleList {
+    font-family: 'Bebas Neue', cursive;
+    color: black;
+}
+
+#ruleList {
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    display: block;
+}
